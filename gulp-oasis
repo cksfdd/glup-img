@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+package_path="/usr/local/lib/node_modules/gulp-oasis"
+gulp --cwd --gulpfile $package_path"/"gulpfile.js $*
